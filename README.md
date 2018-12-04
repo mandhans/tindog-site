@@ -1,2 +1,1 @@
-# tindog-site
-dog mating site
+TinDog Starting Files
